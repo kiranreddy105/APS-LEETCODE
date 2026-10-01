@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kiranreddy105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kiranreddy105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kiranreddy105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kiranreddy105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -67,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kiranreddy105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kiranreddy105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## String
 |  |
 | ------- |
