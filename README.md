@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/kiranreddy105/leetcode/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/kiranreddy105/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kiranreddy105/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/kiranreddy105/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kiranreddy105/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kiranreddy105/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kiranreddy105/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kiranreddy105/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kiranreddy105/leetcode/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -175,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kiranreddy105/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kiranreddy105/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kiranreddy105/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
