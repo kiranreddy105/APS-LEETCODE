@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/kiranreddy105/leetcode/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/kiranreddy105/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kiranreddy105/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/kiranreddy105/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kiranreddy105/leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/kiranreddy105/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kiranreddy105/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
