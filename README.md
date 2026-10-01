@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kiranreddy105/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kiranreddy105/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kiranreddy105/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
