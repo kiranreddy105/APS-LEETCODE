@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kiranreddy105/leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/kiranreddy105/leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/kiranreddy105/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kiranreddy105/leetcode/tree/master/0933-number-of-recent-calls) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/kiranreddy105/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kiranreddy105/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kiranreddy105/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kiranreddy105/leetcode/tree/master/0739-daily-temperatures) |
