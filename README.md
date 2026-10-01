@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/kiranreddy105/leetcode/tree/master/0622-design-circular-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/kiranreddy105/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kiranreddy105/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kiranreddy105/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kiranreddy105/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kiranreddy105/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kiranreddy105/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
