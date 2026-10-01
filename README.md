@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kiranreddy105/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kiranreddy105/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kiranreddy105/leetcode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kiranreddy105/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranreddy105/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kiranreddy105/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kiranreddy105/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiranreddy105/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kiranreddy105/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
