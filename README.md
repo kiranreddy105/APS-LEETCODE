@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kiranreddy105/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kiranreddy105/leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/kiranreddy105/leetcode/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kiranreddy105/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kiranreddy105/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kiranreddy105/leetcode/tree/master/0739-daily-temperatures) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kiranreddy105/leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kiranreddy105/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kiranreddy105/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/kiranreddy105/APS-LEETCODE/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
